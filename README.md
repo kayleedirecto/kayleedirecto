@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kayleedirecto
 - 😄 Pronouns: She/Her
-- 📚 Education: In my final year of  my Bachelor's in Physics, minoring in Statistics at McMaster University. 
+- 📚 I'm in my final year of my Bachelor's in Physics, minoring in Statistics at McMaster University. 
 - 👀 I’m interested in all things simulations and computational science! 
 - 🌱 I’m currently working on a simulation for the McMaster Rocketry team's rocket flight path.
 
