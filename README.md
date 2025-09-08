@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @kayleedirecto
-- 😄 Pronouns: She/Her
-- 📚 I'm in my final year of my Bachelor's in Physics, minoring in Statistics at McMaster University. 
-- 👀 I’m interested in all things simulations and computational science! 
-- 🌱 I’m currently working on a simulation for the McMaster Rocketry team's rocket flight path.
+- 📚 I've just graduated with my Honours BSc Physics from McMaster University and am pursuing my MSc Applied Math at TU Delft
+- 👀 I’m interested in all things simulations and computational engineering! 
 
-- ⚡ Fun fact: I love rock climbing and listening to jazz music! 
 <!-- + - 💞️ I’m looking to collaborate on ... + -->
 <!-- - 📫 How to reach me ... -->
 
